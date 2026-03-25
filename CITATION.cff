@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: RGU Transport
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Lee A.
+    family-names: Christie
+    email: l.a.christie@rgu.ac.uk
+    affiliation: Robert Gordon University
+    orcid: 'https://orcid.org/0000-0001-8878-0344'
+repository-code: 'https://github.com/leechristie/rgu-transport'
+keywords:
+  - transport
+license: GPL-3.0
+commit: b3c2491
+version: 3.9.2-beta
+date-released: '2026-03-25'
