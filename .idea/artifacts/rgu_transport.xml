@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="rgu-transport">
+    <output-path>$PROJECT_DIR$/out/artifacts/rgu_transport</output-path>
+    <root id="archive" name="rgu-transport.jar">
+      <element id="module-output" name="rgu-transport" />
+    </root>
+  </artifact>
+</component>
