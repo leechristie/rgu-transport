@@ -1,4 +1,4 @@
-# RGU Transport 3.9.2 Beta
+# RGU Transport 3.10.0 Beta
 
 Java 25 library for multimodal transport modelling.
 
@@ -6,7 +6,7 @@ Java 25 library for multimodal transport modelling.
 
 If you use this software in your research, please cite it using the metadata given in [CITATION.cff](CITATION.cff), or as shown below.
 
-- Christie, L. A. (2026). RGU Transport (Version 3.9.2-beta) [Computer software]. https://github.com/leechristie/rgu-transport
+- Christie, L. A. (2026). RGU Transport (Version 3.10.0-beta) [Computer software]. https://github.com/leechristie/rgu-transport
 
 ```bibtex
 @software{Christie_RGU_Transport_2026,
@@ -15,7 +15,7 @@ license = {GPL-3.0},
 month = mar,
 title = {{RGU Transport}},
 url = {https://github.com/leechristie/rgu-transport},
-version = {3.9.2-beta},
+version = {3.10.0-beta},
 year = {2026}
 }
 ```
