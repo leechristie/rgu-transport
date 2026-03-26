@@ -4,6 +4,8 @@ Java 25 library for multimodal transport modelling.
 
 ## Cite This Repository
 
+If you use this software in your research, please cite it using the metadata given in [CITATION.cff](CITATION.cff), or as shown below.
+
 - Christie, L. A. (2026). RGU Transport (Version 3.9.2-beta) [Computer software]. https://github.com/leechristie/rgu-transport
 
 ```bibtex
