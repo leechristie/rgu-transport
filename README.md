@@ -2,6 +2,10 @@
 
 Java 25 library for multimodal transport modelling.
 
+## Documentation
+
+[rgu-transport Javadoc](https://leechristie.github.io/rgu-transport)
+
 ## Cite This Repository
 
 If you use this software in your research, please cite it using the metadata given in [CITATION.cff](CITATION.cff), or as shown below.
